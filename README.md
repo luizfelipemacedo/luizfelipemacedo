@@ -33,7 +33,7 @@
 <br/>
 
 <a href="https://github.com/luizfelipemacedoc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfelipemacedoc&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfelipemacedo&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
