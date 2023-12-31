@@ -32,7 +32,7 @@
 
 <br/>
 
-<a href="https://github.com/luizfelipemacedoc">
+<a href="https://github.com/luizfelipemacedo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfelipemacedo&theme=dracula&show_icons=true" />
 </a>
 
@@ -41,4 +41,4 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: LUIZ FELIPE MACEDO CRUZ](https://img.shields.io/badge/-Luiz%20Felipe%20Macedo%20Cruz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-felipe-macedo-cruz-198b6824a/)](https://www.linkedin.com/in/luiz-felipe-macedo-cruz-198b6824a/)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/luizfelipemacedoc?label=follow&style=social)]()
+[![GitHub luizfelipemacedo]( https://img.shields.io/github/followers/luizfelipemacedo?label=follow&style=social)]()
