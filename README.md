@@ -1,44 +1,60 @@
-<h3> 🤓 Sobre mim </h3>
+<h2 align="center">👋 Olá! Eu sou o Luiz Felipe Macedo Cruz</h2>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.faesa.br/">FAESA</a>.
+<h3 align="center">🚀 Explorador de novas tecnologias e criador de soluções inovadoras</h3>
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<p align="center">
+  🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <a href="https://www.faesa.br/">FAESA</a>.
+</p>
 
-**Aplicações e Dados**
+<h3>🚀 &nbsp;Minhas Skills</h3>
 
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Postgres](https://img.shields.io/badge/-PostgreSql-333333?style=flat&logo=postgresql)
+**💻 &nbsp;Desenvolvimento e Dados**
 
-**Utilidades**
+<p>
+  <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS" />
+  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql" alt="PostgreSQL" />
+</p>
 
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+**🔧 &nbsp;Utilidades**
 
-**DevOps**
+<p>
+  <img src="https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia" alt="Insomnia" />
+  <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" alt="Postman" />
+</p>
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+**⚙️ &nbsp;DevOps**
 
+<p>
+  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub" />
+</p>
 
-**Ferramentas de Desenvolvimento**
+**🛠️ &nbsp;Ferramentas de Desenvolvimento**
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+<p>
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC" alt="Figma" />
+</p>
 
-<br/>
+<h3>📈 &nbsp;GitHub Stats</h3>
 
-<a href="https://github.com/luizfelipemacedo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfelipemacedo&theme=dracula&show_icons=true" />
-</a>
+<p>
+  <a href="https://github.com/luizfelipemacedo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfelipemacedo&theme=dracula&show_icons=true" alt="Luiz Felipe Macedo's GitHub Stats"/>
+  </a>
+</p>
 
-<br/>
+<h3>🌐 &nbsp;Onde me encontrar</h3>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin: LUIZ FELIPE MACEDO CRUZ](https://img.shields.io/badge/-Luiz%20Felipe%20Macedo%20Cruz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-felipe-macedo-cruz-198b6824a/)](https://www.linkedin.com/in/luiz-felipe-macedo-cruz-198b6824a/)
-[![GitHub luizfelipemacedo]( https://img.shields.io/github/followers/luizfelipemacedo?label=follow&style=social)]()
+<p>
+  <a href="https://www.linkedin.com/in/luiz-felipe-macedo-cruz-198b6824a/">
+    <img src="https://img.shields.io/badge/-Luiz%20Felipe%20Macedo%20Cruz-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin: Luiz Felipe Macedo Cruz"/>
+  </a>
+  <a href="https://github.com/luizfelipemacedo">
+    <img src="https://img.shields.io/github/followers/luizfelipemacedo?label=follow&style=social" alt="GitHub: luizfelipemacedo"/>
+  </a>
+</p>
