@@ -22,7 +22,5 @@ Acredito na colaboração como motor da evolução tecnológica:
 
 ---
 
----
-
 ### 🌐 Conecte-se comigo
 [LinkedIn](https://www.linkedin.com/in/luiz-felipe-macedo-198b6824a/) | [Email](mailto:luizfelipemacedoc@gmail.com)
